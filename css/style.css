@@ -140,6 +140,12 @@ button {
     justify-content: center;
     align-items: center;
     border: none;
+    color: #FFF;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; 
 }
 
 /* border none-ს რომ ვუწერ აღარ ეკლიკება... ზემოთ ჰედერში ა ტეგით გავაკეთე Button ტეგი არ გამოვიყენე იგივე შედეგია თითქოს. */
@@ -180,4 +186,56 @@ line-height: 36px;
 letter-spacing: 0.12px;
 margin-top: 32px;
 
+}
+/* footer */
+
+footer{
+    width: 1440px;
+    background-color: #2A9D8F;
+    padding: 90px 130px 148px 130px;
+    margin: 0 auto;
+}
+.footer_icon{
+    border-radius: 50px;
+    border: solid;
+    border-color: #FFF;
+    border-width: 3px;
+    padding: 21px 27px;
+    vertical-align: top;
+    margin-right: 591px;
+}
+.footer_nav{
+    display: inline-block;
+    vertical-align: top;
+}
+.footer_nav_ul{
+    display: inline-block;
+}
+.footer_nav_middleul{
+    margin-inline: 42px;
+}
+.footer_list_main{
+ color: #FFF;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px; 
+letter-spacing: 0.1px;
+
+}
+.footer_list_basic{
+    color: #FFF;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px; 
+letter-spacing: 0.09px;
+}
+.footernav_main_li{
+    margin-bottom: 20px;
+}
+.footernav_maiddle_li{
+    margin: 8px 0;
 }
