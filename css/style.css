@@ -1,0 +1,48 @@
+/* header */
+
+header{
+    width: 1440px;
+    background-color: #2A9D8F;
+    padding: 38px 130px;
+    margin: 0 auto;
+}
+.header_icon{
+    border-radius: 50px;
+    background-color: #FFF;
+    padding: 10px 13px;
+    vertical-align: middle;
+    margin-right: 357px;
+}
+.header_navigation{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 337px;
+
+}
+.header_navli{
+    display: inline-block;
+}
+.header_navmiddleli{
+    margin-inline: 51px;
+}
+.header_nav{
+    color: #FFF;
+font-family: Nerko One;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 150% */
+letter-spacing: 0.1px;
+}
+.header_button{
+    color: #2A9D8F;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 30px; /* 150% */
+letter-spacing: 0.1px;
+background-color: #FFF;
+padding: 8px 16px;
+vertical-align: middle;
+}
