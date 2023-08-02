@@ -46,3 +46,33 @@ background-color: #FFF;
 padding: 8px 16px;
 vertical-align: middle;
 }
+
+/* article */
+article{
+    width: 780px;
+    margin: 200px auto;
+}
+.article_title{
+    color: #4D4D4D;
+text-align: center;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 500;
+line-height: 130%; /* 62.4px */
+letter-spacing: 0.24px;
+}
+.article_txt{
+    color: #656565;
+text-align: justify;
+font-family: Nerko One;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 30px */
+letter-spacing: 0.1px;
+}
+.article_txt1{
+    margin-bottom: 52px;
+    margin-top: 60px;
+}
