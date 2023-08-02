@@ -1,78 +1,147 @@
 /* header */
 
-header{
+header {
     width: 1440px;
     background-color: #2A9D8F;
     padding: 38px 130px;
     margin: 0 auto;
 }
-.header_icon{
+
+.header_icon {
     border-radius: 50px;
     background-color: #FFF;
     padding: 10px 13px;
     vertical-align: middle;
     margin-right: 357px;
 }
-.header_navigation{
+
+.header_navigation {
     display: inline-block;
     vertical-align: middle;
     margin-right: 337px;
 
 }
-.header_navli{
+
+.header_navli {
     display: inline-block;
 }
-.header_navmiddleli{
+
+.header_navmiddleli {
     margin-inline: 51px;
 }
-.header_nav{
+
+.header_nav {
     color: #FFF;
-font-family: Nerko One;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px; /* 150% */
-letter-spacing: 0.1px;
+    font-family: Nerko One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+
+    letter-spacing: 0.1px;
 }
-.header_button{
+
+.header_button {
     color: #2A9D8F;
-font-family: Poppins;
-font-size: 20px;
-font-style: normal;
-font-weight: 600;
-line-height: 30px; /* 150% */
-letter-spacing: 0.1px;
-background-color: #FFF;
-padding: 8px 16px;
-vertical-align: middle;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+
+    letter-spacing: 0.1px;
+    background-color: #FFF;
+    padding: 8px 16px;
+    vertical-align: middle;
 }
 
 /* article */
-article{
+article {
     width: 780px;
     margin: 200px auto;
 }
-.article_title{
+
+.article_title {
     color: #4D4D4D;
-text-align: center;
-font-family: Poppins;
-font-size: 48px;
-font-style: normal;
-font-weight: 500;
-line-height: 130%; /* 62.4px */
-letter-spacing: 0.24px;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 130%;
+    letter-spacing: 0.24px;
 }
-.article_txt{
+
+.article_txt {
     color: #656565;
-text-align: justify;
-font-family: Nerko One;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: 150%; /* 30px */
-letter-spacing: 0.1px;
+    text-align: justify;
+    font-family: Nerko One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: 0.1px;
 }
-.article_txt1{
+
+.article_txt1 {
     margin-bottom: 52px;
     margin-top: 60px;
 }
+
+/* section1 */
+
+.section1 {
+    width: 1440px;
+    background-color: #C2F3EE;
+    margin: 0 auto;
+    padding: 80px 130px;
+
+}
+
+.section1_image {
+    vertical-align: top;
+}
+
+.section1_div {
+    display: inline-block;
+    width: 457px;
+    margin-left: 119px;
+
+}
+
+.section1_title {
+    color: #272727;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px;
+
+    letter-spacing: 0.16px;
+    vertical-align: top;
+}
+
+.section1_txt {
+    color: #515151;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.09px;
+    margin-top: 27px;
+    margin-bottom: 56px;
+}
+
+button {
+    background-color: #2A9D8F;
+    display: inline-flex;
+    padding: 11px 16px;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+
+/* border none-ს რომ ვუწერ აღარ ეკლიკება... ზემოთ ჰედერში ა ტეგით გავაკეთე Button ტეგი არ გამოვიყენე იგივე შედეგია თითქოს. */
+
+/* section2 */
