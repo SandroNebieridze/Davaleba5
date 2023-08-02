@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Black.eot');
+    src: url('../fonts/Poppins-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Poppins-Black.woff2') format('woff2'),
+        url('../fonts/Poppins-Black.woff') format('woff'),
+        url('../fonts/Poppins-Black.ttf') format('truetype'),
+        url('../fonts/Poppins-Black.svg#Poppins-Black') format('svg');
+   
+}
+
+@font-face {
+    font-family: 'Nerko One';
+    src: url('NerkoOne-Regular.eot');
+    src: url('../fonts/NerkoOne-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NerkoOne-Regular.woff2') format('woff2'),
+        url('../fonts/NerkoOne-Regular.woff') format('woff'),
+        url('../fonts/NerkoOne-Regular.ttf') format('truetype'),
+        url('../fonts/NerkoOne-Regular.svg#NerkoOne-Regular') format('svg');
+    
+}
+
